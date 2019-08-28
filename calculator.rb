@@ -1,6 +1,6 @@
-first_number = "0.06"
-second_number = "3"
-sum = "9"
-difference = "3"
-product = "18"
-quotient = "2"
+first_number = 6
+second_number = 3
+sum = 9
+difference = 3
+product = 18
+quotient = 2
