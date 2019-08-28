@@ -1,4 +1,4 @@
-first_number = "6"
+first_number = "0.06"
 second_number = "3"
 sum = "9"
 difference = "3"
